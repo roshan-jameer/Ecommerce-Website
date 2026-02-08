@@ -9,6 +9,7 @@ Servlets are responsible for handling HTTP requests, validating user inputs, and
 
 The application is packaged as a WAR file and deployed on Apache Tomcat, enabling smooth request handling and server-side processing.
 
+
 🔧 Technologies Used
 
 - Frontend: JSP, HTML, CSS
@@ -31,3 +32,4 @@ Session-based Shopping Cart
 Order Placement
 
 Database-driven dynamic content
+
