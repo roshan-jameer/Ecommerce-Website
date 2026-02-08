@@ -11,12 +11,12 @@ The application is packaged as a WAR file and deployed on Apache Tomcat, enablin
 
 🔧 Technologies Used
 
--- Frontend: JSP, HTML, CSS
--- Backend: Java Servlets
-Database: MySQL
-Database Connectivity: JDBC
-Server: Apache Tomcat
-Architecture: MVC (Model–View–Controller)
+- Frontend: JSP, HTML, CSS
+- Backend: Java Servlets
+- Database: MySQL
+- Database Connectivity: JDBC
+- Server: Apache Tomcat
+- Architecture: MVC (Model–View–Controller)
 
 ⭐ Key Features
 
