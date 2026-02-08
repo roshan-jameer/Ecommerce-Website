@@ -17,3 +17,17 @@ Database: MySQL
 Database Connectivity: JDBC
 Server: Apache Tomcat
 Architecture: MVC (Model–View–Controller)
+
+⭐ Key Features
+
+User Registration and Login
+
+Product Listing and Details
+
+Add to Cart and Remove from Cart
+
+Session-based Shopping Cart
+
+Order Placement
+
+Database-driven dynamic content
