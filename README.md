@@ -8,3 +8,12 @@ The website allows users to browse products, register and log in, add items to a
 Servlets are responsible for handling HTTP requests, validating user inputs, and interacting with the database through JDBC. JSP pages dynamically display content such as product lists, cart details, and order summaries. Session management is implemented to maintain user login state and shopping cart data.
 
 The application is packaged as a WAR file and deployed on Apache Tomcat, enabling smooth request handling and server-side processing.
+
+🔧 Technologies Used
+
+-- Frontend: JSP, HTML, CSS
+-- Backend: Java Servlets
+Database: MySQL
+Database Connectivity: JDBC
+Server: Apache Tomcat
+Architecture: MVC (Model–View–Controller)
